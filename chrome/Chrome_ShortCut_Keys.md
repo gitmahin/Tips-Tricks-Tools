@@ -7,3 +7,4 @@
 4. **`Ctrl` + `l`** - Instantly select the page URL
 5. **`Ctrl` + `f`** - Find keywords in a page
 6. **`Ctrl` + `d`** - Instantly Bookmark a website/webpage
+7. **`Ctrl` + `i`** - Open developer tools
