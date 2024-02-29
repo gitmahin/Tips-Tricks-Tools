@@ -75,4 +75,4 @@ Pieces for Developers is the most advanced code snippet management and workflow 
 
 ### 16. I choose GPT-4. You can choose another AI.
 
-![alt text](<Screenshot (58)-1.png>)
+![alt text](<Screenshot (58)-1-1.png>)
