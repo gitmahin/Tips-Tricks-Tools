@@ -13,7 +13,7 @@ Pieces for Developers is the most advanced code snippet management and workflow 
 
 ### 1. Search for **Pieces for Developers** on your browser.
 
-![alt text](</Screenshot(41).png>)
+![alt text](</Screenshot (41).png>)
 
 ### 2. Enter the website and Click on `Install now`
 
