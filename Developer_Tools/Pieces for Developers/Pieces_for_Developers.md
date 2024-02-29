@@ -23,7 +23,7 @@ Pieces for Developers is the most advanced code snippet management and workflow 
 
 ![alt text](</Screenshot (43).png>)
 
-### 4. Choose your download location and save it. After completing the download click the file
+### 4. Choose your download location and save it. After completing the download click on the file
 
 ![alt text](</Screenshot (44).png>)
 
