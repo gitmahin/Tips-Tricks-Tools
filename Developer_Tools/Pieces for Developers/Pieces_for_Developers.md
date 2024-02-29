@@ -55,7 +55,7 @@ Pieces for Developers is the most advanced code snippet management and workflow 
 
 ![alt text](<Screenshot (51)-1.png>)
 
-### 12. Select ***Specify Preferred AL/ML Enrichment Mode*** as **Blended**.
+### 12. Select ***Specify Preferred AL/ML Enrichment Mode*** as **Blended** and select GPT-4.
 
 ![alt text](<Screenshot (53)-1.png>)
 
