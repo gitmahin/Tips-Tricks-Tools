@@ -1,5 +1,7 @@
 # Some Basic Git commands that you must know.
 
+![alt text](../img/430159960_913668303785394_2170245629567809722_n.jpg)
+
 `⚠ Note:` Don’t try to remember the commands or programming languages. It will be remembered while working. ⚠
 
 `⚠ Note:` To learn Git easily, first, you just use GitHub Desktop to create a repository, commit, and push files. Once you understand how GitHub Desktop works, you can switch to Git, as Git is important and easier to use than GitHub Desktop.
